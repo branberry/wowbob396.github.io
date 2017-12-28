@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A Confused Programmer's Ramblings
+title: Lost In Code
 email: wowbob396@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello stranger, and welcome to my blog. 
   I intend to use this as a repository of my thoughts on developing different software ranging from web development to AI. 
   I don't claim to be an expert in any topic, but I hope to use this blog as a way for me to keep track of my programming progress and hopefully create useful tidbits of information for someone.
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "confusedprogrammer.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g.LostInCode.com
 github_username:  wowbob396
 
 # Build settings
