@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lost In Code
+title: Lost Coding
 email: wowbob396@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello stranger, and welcome to my blog. 
@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I don't claim to be an expert in any topic, but I hope to use this blog as a way for me to keep track of my programming progress and hopefully create useful tidbits of information for someone.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g.LostInCode.com
+url: "lostcoding.com" # the base hostname & protocol for your site, e.g.LostInCode.com
 github_username:  wowbob396
 
 # Build settings
