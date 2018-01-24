@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lost Coding
-email: wowbob396@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello stranger, and welcome to my blog. 
   I intend to use this as a repository of my thoughts on developing different software ranging from web development to AI. 
