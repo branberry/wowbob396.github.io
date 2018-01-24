@@ -22,8 +22,19 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.lostcoding.com" # the base hostname & protocol for your site, e.g.LostInCode.com
-github_username:  wowbob396
-
+authors:
+  brandon:
+    name: Brandon Ly
+    display_name: Brandon
+    email: wowbob396@gmail.com
+    twitter: wowbob396
+    github: wowbob396
+  chris:
+    name: Chris Patterson
+    display_name: Chris
+#    email: jorgen@company.com
+#  twitter: company
+#   github: jorgenm
 # Build settings
 markdown: kramdown
 theme: minima
