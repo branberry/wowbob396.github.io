@@ -18,7 +18,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello stranger, and welcome to my blog. 
   I intend to use this as a repository of my thoughts on developing different software ranging from web development to AI. 
   I don't claim to be an expert in any topic, but I hope to use this blog as a way for me to keep track of my programming progress and hopefully create useful tidbits of information for someone.
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.lostcoding.com" # the base hostname & protocol for your site, e.g.LostInCode.com
 authors:
@@ -35,7 +34,6 @@ authors:
 #  twitter: company
 #   github: jorgenm
 # Build settings
-
 markdown: kramdown
 theme: minima
 plugins:
