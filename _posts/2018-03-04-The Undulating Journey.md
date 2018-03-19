@@ -1,4 +1,4 @@
-#The Undulating Journey
+# The Undulating Journey
 
 One thing I have learned as I have grown older, and I think something everyone learns, is that very few things in life are black or white.  Very rarely is the journey of life a straight forward path.
 
